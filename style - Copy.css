@@ -1,0 +1,30 @@
+body{
+   font-size: 20px;
+
+}
+h1{
+   font-weight: 700;
+}
+
+.logo-area{
+   background-color: honeydew;
+
+}
+.logo img{
+   width: 150px;height: 50px;
+  
+}
+.nav-pills .nav-link {
+   border-radius: 1.25rem;
+      color: black;
+   
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color:black;
+    background-color: #007bff;
+}
+
+.nav-pills .nav-link:hover {
+	color:red;
+   
+}

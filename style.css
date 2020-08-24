@@ -1,0 +1,42 @@
+body{
+   font-size: 20px;
+}
+h1{
+   font-weight: 700;
+}
+.navbar{
+   background-color: #a6f584;
+}
+.logo img{
+   width: 150px;height: 50px;
+}
+.login{
+   border-radius: 20px;
+     
+}
+.login a{color:black!important;
+}
+.nav-link{
+	color:#fff;
+}
+.nav-link:hover {
+	color:red;
+   }
+
+.slider_area{height:500px;margin-top:100px}
+.slider_area_background{background:url(images/slider.PNG) no-repeat;height:100%;}
+
+.slider{}
+.form-control{}
+.form-inline{background-color:#fff;	padding:10px;}
+h2{color:red;}
+.dengerus:hover{background-color:red}
+.text-area{margin:50px 100px}
+.discover{background-color:red;color:#fff;
+border-radius:5px;padding:5px}
+.discover:hover{background-color:#a6f584;color:red}
+.register-area{background:url(images/emp.PNG) no-repeat;height:256px}
+.employe{padding:65px}
+
+
+
